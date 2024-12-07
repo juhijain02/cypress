@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 1,
+  "pending": 1,
+  "failures": 0,
+  "start": "2024-12-02T18:58:55.481Z",
+  "duration": 28169,
+  "file": "cypress/integration/testScnerios/register.spec.js"
+}
